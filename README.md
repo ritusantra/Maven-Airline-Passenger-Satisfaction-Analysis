@@ -13,4 +13,7 @@ For Maven Airlines Challenge, you'll be assuming the role of Senior Data Analyst
 ### Task
 To recommend a data-driven strategy for increasing Maven Airlines' satisfaction rate, and present it in the form of a single page report or dashboard.
 
+### Power BI Dashboard
+![image](https://user-images.githubusercontent.com/75059347/171550962-0024d989-14ab-42c7-b222-2fdd3b4f1448.png)
+
 ### [Challenge Link](https://www.mavenanalytics.io/blog/maven-airlines-challenge)
