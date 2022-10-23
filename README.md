@@ -1,5 +1,7 @@
 # Maven Airline Passenger Satisfaction Analysis
 
+[Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNTAxNTRhNDctMGVjYy00ZDcxLTkyMTAtOGNlOWNjNDg1MzdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
+
 Created a dashboard on Power BI to analyze maven airlines passenger's satisfaction ratings. The satisfaction rating was 43.45%. The average ratings of the parameters were analyzed and it was found that: inflight Wi-Fi service, ease of booking and gate location had the worst ratings. Also, the dissatisfaction rate of the first-time passengers from economy class was higher. Based on the insights key recommendations and data-driven strategy was given for increasing Maven Airlines' satisfaction rate.
 
 ### About the dataset
